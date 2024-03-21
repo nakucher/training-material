@@ -270,7 +270,11 @@
           }
         ],
         "inexact": [
-
+          {
+            "url": "https://galaxy.metacentrum.cz/",
+            "name": "MetaCentrum",
+            "usegalaxy": "false"
+          }
         ]
       },
       "topic_name_human": "Contributing to the Galaxy Training Material",
@@ -2302,6 +2306,11 @@
           {
             "url": "https://cpt.tamu.edu/galaxy-public/",
             "name": "Center for Phage Technology (CPT)",
+            "usegalaxy": "false"
+          },
+          {
+            "url": "https://galaxy.metacentrum.cz/",
+            "name": "MetaCentrum",
             "usegalaxy": "false"
           },
           {
