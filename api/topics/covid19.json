@@ -402,11 +402,6 @@
             "usegalaxy": "false"
           },
           {
-            "url": "https://mississippi.sorbonne-universite.fr",
-            "name": "MISSISSIPPI",
-            "usegalaxy": "false"
-          },
-          {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
             "usegalaxy": "true"
@@ -673,11 +668,6 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://mississippi.sorbonne-universite.fr",
-            "name": "MISSISSIPPI",
-            "usegalaxy": "false"
-          },
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
@@ -966,11 +956,6 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://mississippi.sorbonne-universite.fr",
-            "name": "MISSISSIPPI",
-            "usegalaxy": "false"
-          },
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
@@ -1718,11 +1703,6 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://mississippi.sorbonne-universite.fr",
-            "name": "MISSISSIPPI",
-            "usegalaxy": "false"
-          },
           {
             "url": "https://usegalaxy.fr/",
             "name": "UseGalaxy.fr",
