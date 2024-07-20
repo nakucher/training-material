@@ -91,6 +91,11 @@
   "supported_servers": {
     "exact": [
       {
+        "url": "https://usegalaxy.be/",
+        "name": "UseGalaxy.be",
+        "usegalaxy": "true"
+      },
+      {
         "url": "https://usegalaxy.cz/",
         "name": "UseGalaxy.cz",
         "usegalaxy": "true"
@@ -112,7 +117,11 @@
       }
     ],
     "inexact": [
-
+      {
+        "url": "https://usegalaxy.no/",
+        "name": "UseGalaxy.no",
+        "usegalaxy": "true"
+      }
     ]
   },
   "topic_name_human": "Statistics and machine learning",
