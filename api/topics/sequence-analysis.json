@@ -385,11 +385,6 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.mesocentre.uca.fr",
-            "name": "Galaxy@AuBi",
-            "usegalaxy": "false"
-          },
-          {
             "url": "https://galaxytrakr.org/",
             "name": "GalaxyTrakr",
             "usegalaxy": "false"
@@ -2505,11 +2500,6 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.mesocentre.uca.fr",
-            "name": "Galaxy@AuBi",
-            "usegalaxy": "false"
-          },
-          {
             "url": "https://galaxytrakr.org/",
             "name": "GalaxyTrakr",
             "usegalaxy": "false"
@@ -4106,11 +4096,6 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.mesocentre.uca.fr",
-            "name": "Galaxy@AuBi",
-            "usegalaxy": "false"
-          },
-          {
             "url": "https://usegalaxy.cz/",
             "name": "UseGalaxy.cz",
             "usegalaxy": "true"
@@ -4284,11 +4269,6 @@
           {
             "url": "https://cpt.tamu.edu/galaxy-public/",
             "name": "Center for Phage Technology (CPT)",
-            "usegalaxy": "false"
-          },
-          {
-            "url": "https://galaxy.mesocentre.uca.fr",
-            "name": "Galaxy@AuBi",
             "usegalaxy": "false"
           },
           {
